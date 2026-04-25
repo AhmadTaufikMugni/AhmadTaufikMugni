@@ -1,4 +1,4 @@
-##Hi, I'm Ahmad 👋
+## Hi, I'm Ahmad 👋
 Aspiring Data Analyst focused on:
 - SQL
 - Excel
